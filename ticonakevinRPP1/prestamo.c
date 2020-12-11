@@ -111,7 +111,7 @@ void mostrarPrestamo(ePrestamo listPrestamo, eCliente listCliente[], int tamC)
 int mostrarPrestamos(ePrestamo listPrestamo[], int tamP, eCliente listCliente[], int tamC)
 {
     int error = -1;
-    if(listPrestamo != NULL && tamP > 0)
+    if(listPrestamo != NULL && tamP > 0 && listCliente != NULL && tamC >0)
     {
         printf("                         Prestamos        \n"     );
         printf("----------------------------------------------------------------------\n");
@@ -310,3 +310,5 @@ int imprimirPrestamosDni(ePrestamo listPrestamo[],int tamP,eCliente listCliente[
 
     return error;
 }
+
+

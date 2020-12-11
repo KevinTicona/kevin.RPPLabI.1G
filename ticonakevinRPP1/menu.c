@@ -19,3 +19,15 @@ void menu_principal()
     printf("10- Informar Clientes.\n");
     printf("\n Eliga una de las Opciones: ");
 }
+
+
+void informes_subMenu()
+{
+    system("cls");
+
+    printf(" *** Menu de Informes *** \n");
+    printf("1.a_ Clientes con mas prestamos Activos.\n");
+    printf("2.b_ Clientes con mas prestamos Saldados.\n");
+    printf("3.c_ Clientes con mas prestamos.\n");
+    printf("4. Volver al menu principal.\n");
+}

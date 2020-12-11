@@ -5,3 +5,4 @@
 
 #endif // MENU_H_INCLUDED
 void menu_principal();
+void informes_subMenu();

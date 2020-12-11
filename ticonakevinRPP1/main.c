@@ -6,6 +6,7 @@
 #include "cliente.h"
 #include "menu.h"
 #include "prestamo.h"
+#include "informes.h"
 
 
 #define TAM_C 10
@@ -140,6 +141,7 @@ int main()
                 imprimirPrestamosDni(listPrestamos,TAM_P,listClientes,TAM_C);
                 break;
             case 9:
+                menu_Informes(listPrestamos,TAM_P,listClientes,TAM_C);
                 break;
             case 10:
                 printf("Saliendo...\n");
