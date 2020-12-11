@@ -11,7 +11,7 @@
 
 1607645845 c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\cliente.h
 
-1607646146 source:c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\main.c
+1607646379 source:c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\main.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -45,5 +45,5 @@
 	<string.h>
 	"validaciones.h"
 
-1607644679 c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\prestamo.h
+1607646228 c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\prestamo.h
 

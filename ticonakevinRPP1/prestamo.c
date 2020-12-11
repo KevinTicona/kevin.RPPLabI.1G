@@ -172,6 +172,7 @@ int saldarPrestamo(ePrestamo listPrestamo[],int tamP,eCliente listCliente[], int
             if(confirmar == 's')
             {
                 listPrestamo[indice].estado = -1;
+                listPrestamo[indice].isEmpty = 1;
                 error = 0;
             }
             else
@@ -242,6 +243,7 @@ int activarPrestamo(ePrestamo listPrestamo[],int tamP,eCliente listCliente[], in
             if(confirmar == 's')
             {
                 listPrestamo[indice].estado = 0;
+                listPrestamo[indice].isEmpty = 0;
                 error = 0;
             }
             else

@@ -136,7 +136,7 @@ int main()
             case 7:
                 break;
             case 8:
-                mostrarPrestamos(listPrestamos,TAM_P,listClientes,TAM_C);
+                mostrarClientes(listClientes,TAM_C);
                 imprimirPrestamosDni(listPrestamos,TAM_P,listClientes,TAM_C);
                 break;
             case 9:
@@ -148,7 +148,7 @@ int main()
             system("pause");
         }
     }
-    while( menuPrincipal_opcionSeleccionada != 12);
+    while( menuPrincipal_opcionSeleccionada != 10);
 
     return 0;
 }
