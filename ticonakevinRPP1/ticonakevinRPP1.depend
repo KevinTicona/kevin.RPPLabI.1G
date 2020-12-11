@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1607645786 source:c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+	"cliente.h"
+
+1607637066 c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\validaciones.h
+
+1607645845 c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\cliente.h
+
+1607646146 source:c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+	"cliente.h"
+	"menu.h"
+	"prestamo.h"
+
+1607638081 c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\menu.h
+
+1607645034 source:c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1607646114 source:c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\prestamo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+	"cliente.h"
+	"prestamo.h"
+
+1607637066 source:c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1607644679 c:\users\keni_\desktop\ticonakevinrpp1g\ticonakevinrpp1\prestamo.h
+
